@@ -53,4 +53,13 @@ Hello from our View Template!
 20250129 1001 - Added the rating field
 
 20250131 0010 - Added the validation for each and every field
+20250204 2300 - Created Git and added project to Git.
+
+20250205 0827 - Part 7 - 10 completed
+20250205 0829 - 08:49:18:032	Clean started at 08:49...
+08:49:18:147	1>------ Clean started: Project: MvcMovie, Configuration: Debug Any CPU ------
+08:49:19:924	========== Clean: 1 succeeded, 0 failed, 0 skipped ==========
+08:49:19:924	========== Clean completed at 08:49 and took 01.951 seconds ==========
+
+20250205 0904 - Committed and pushed changes to git.
 
