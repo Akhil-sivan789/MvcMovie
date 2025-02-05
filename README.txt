@@ -50,7 +50,7 @@ Hello from our View Template!
 09:32:09:537	========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
 09:32:09:537	========== Build completed at 09:32 and took 10.324 seconds ==========
 
-20250129 1001 - Added the rating field
+20250129 1001 - Added the rating field 20250129145758_Rating.cs
 
 20250131 0010 - Added the validation for each and every field
 20250204 2300 - Created Git and added project to Git.
@@ -63,4 +63,8 @@ Hello from our View Template!
 08:49:19:924	========== Clean completed at 08:49 and took 01.951 seconds ==========
 
 20250205 0904 - Committed and pushed changes to git.
+
+20250205 1400 - Added another movie to the list to make it 5 throgh adding new class newMovie.
+20250205 1410 - Run the application successfully.
+20250205 1515 - Pushed the changes to github.
 
